@@ -1,13 +1,10 @@
-import { UserList } from "./components/user-list";
+import ShowHideText from "./components/show-hide-text";
 
 export default function App() {
-
   return (
     <div>
-     <UserList />
+      <ShowHideText />
     </div>
 
   )
 }
-
-
